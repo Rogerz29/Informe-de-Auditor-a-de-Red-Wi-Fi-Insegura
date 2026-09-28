@@ -67,6 +67,12 @@ El protocolo utilizado lo podemos ver en la seccion de Response headers
 
 <img width="958" height="937" alt="Screenshot_1" src="https://github.com/user-attachments/assets/329fe2bc-40ca-4cd9-8be2-e45e78e3841c" />
 
+¿Qué protocolo utiliza el sitio?
+
+utiliza deliberadamente el protocolo HTTP.
+
+Como puedes observar en la propia URL, carece de la "s" final (Secure). Esto significa que la comunicación entre tu navegador y los servidores de NeverSSL no está cifrada y toda la información viaja en texto plano, sin utilizar certificados de seguridad SSL/TLS.
+
 
 
 2. ¿Qué información puede observarse durante la solicitud?
